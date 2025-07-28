@@ -13,7 +13,7 @@ This was a personal mini-project to practice working with the **Date object** an
 
 ## Live Demo
 
-**👉 [Click here to see the time](https://َAminbaniamer.github.io/analog-clock/)**
+**[Click here to see the time](https://aminbaniamer.github.io/analog-clock/)**
 
 ---
 
